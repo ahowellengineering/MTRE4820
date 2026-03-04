@@ -129,5 +129,6 @@ dmypy.json
 *.swo
 *~
 
-# ignore generated video files
+# ignore generated video/image files
 *.avi
+*.jpg
